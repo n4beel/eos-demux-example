@@ -1,0 +1,17 @@
+{
+  "name": "DemuxExample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "demux": "^4.0.0",
+    "demux-ala": "^4.0.2",
+    "demux-eos": "^4.0.1"
+  }
+}
